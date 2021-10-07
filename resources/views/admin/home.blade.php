@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+    <h5>Welcome</h5>
     <h1>Admin home</h1>
 </body>
 </html>
